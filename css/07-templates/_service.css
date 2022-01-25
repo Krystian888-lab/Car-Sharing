@@ -1,0 +1,27 @@
+.service-articles {
+ display: flex;
+ justify-content: space-around;
+}
+
+.service__article2 {
+ align-items: center;
+ max-width: 25%;
+ padding: 0 10px 0 10px
+}
+
+.service__title {
+ color: var(--color-main);
+ font: normal normal normal 19px/26px var(--font-outstanding);
+ letter-spacing: 0px;
+ margin: 15px 0 15px 0;
+ opacity: 1;
+ text-align: center;
+ text-transform: uppercase;
+}
+
+.service__text {
+ color: var(--color-main-text-2);
+ font: normal normal normal 14px/19px var(--font-normal);
+ margin-bottom: 20px;
+ text-align: justify;
+}

@@ -1,0 +1,32 @@
+.site-footer {
+ height: 232px;
+ background-color: var(--color-bg);
+}
+
+.footer-nav {
+ align-items: center;
+ display: flex;
+ justify-content: space-between;
+ text-align: left;
+ width: 35%;
+}
+
+.footer__item {
+ text-transform: uppercase;
+ font: normal normal bold 14px/19px var(--font-outstanding);
+}
+
+.footer__text {
+ color: var(--color-main);
+ text-decoration: none;
+}
+
+.home {
+ color: var(--color-second );
+}
+
+.footer__copy {
+ color: var(--color-main);
+ display: flex;
+ justify-content: flex-end;
+}
