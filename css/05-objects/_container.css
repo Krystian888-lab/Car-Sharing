@@ -1,0 +1,9 @@
+.container {
+ margin: 0 auto;
+ max-width: 1090px;
+}
+
+.container__contact {
+ display: flex;
+ justify-content: center;
+}

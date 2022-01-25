@@ -1,0 +1,36 @@
+.logo {
+ align-items: center;
+ display: flex;
+}
+
+.logo__icon {
+ background-image: url('../../images/Icon.svg');
+ background-repeat: no-repeat;
+ height: 40px;
+ margin-right: 10px;
+ width: 35px;
+}
+
+.logo__text {
+ font-family: var(--font-outstanding);
+ font-size: 35px;
+ font-weight: 700;
+ text-transform: uppercase;
+}
+
+.logo__text strong {
+ color: var(--color-second);
+ font: normal normal 800 35px/47px var(--font-outstanding);
+ margin-right: 4px;
+ text-align: left;
+}
+
+.logo__footer {
+ align-items: center;
+ display: flex;
+ padding: 30px 0;
+}
+
+.logo__text span {
+ color: var(--color-main);
+}
