@@ -1,5 +1,7 @@
 .photo {
  background-repeat: no-repeat;
+ background-size: contain;
+ background-position: center;
  display: block;
  margin: 0 auto;
  overflow: hidden;
