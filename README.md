@@ -22,5 +22,5 @@ The project will be a **website** based on the layout that was prepared in Adobe
 ![Header](./images/page_header.png)
 ![Blog Article](./images/blog_article.png)
 ![Service Article](./images/service_article.png)
-![Contact](./images/Contact.png)
+![Contact](./images/contact.png)
 
