@@ -29,8 +29,8 @@ The project will be a **website** based on the layout that was prepared in Adobe
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML 5.1
+- CSS 3
 - Block Element Modifier (BEM)
 - Reset file
 - Adobe XD
@@ -61,8 +61,16 @@ List of features ready and TODOs for future development
 
 To-do list:
 
+- Layout Grid
 - Mobile version
 - Optimisation
+
+## Acknowledgements
+
+- This design was delineated by the schema https://xd.adobe.com/view/19f36565-a886-47a4-45e4-47c2d02e4a8f-6fc2/specs/
+- This project was inspired by "Warsztaty tworzenia stron internetowych" on https://platforma.strefakursow.pl/
+- Many thanks to Ksawery Kargól from "strefakursow.pl"
+
 
 ## Contact
 
