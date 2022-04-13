@@ -69,7 +69,7 @@ To-do list:
 
 - This design was delineated by the schema https://xd.adobe.com/view/19f36565-a886-47a4-45e4-47c2d02e4a8f-6fc2/specs/
 - This project was inspired by "Warsztaty tworzenia stron internetowych" on https://platforma.strefakursow.pl/
-- Many thanks to Ksawery Kargól from "strefakursow.pl"
+- Many thanks to lecturer Ksawery Kargól from "strefakursow.pl"
 
 
 ## Contact
