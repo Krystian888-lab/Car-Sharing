@@ -52,5 +52,5 @@ Project is: _made_
 
 ## Contact
 
-Created by Krystian Marciniak krystianmarciniak446@gmail.com - feel free to contact me :-)
+Created by Krystian Marciniak krystianmarciniak446@gmail.com - feel free to contact me
 
