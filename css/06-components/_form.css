@@ -61,7 +61,7 @@ input[type=checkbox] {
 }
 
 input[type=checkbox]:checked:after {
- background: url("../../images/IconCheck.svg") no-repeat;
+ background: url("../../images/Icon Check.svg") no-repeat;
  border-radius: 50%;
  content: "";
  height: 11px;
