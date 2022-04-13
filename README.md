@@ -4,13 +4,15 @@
 
 ## Table of contents
 
-- [General info](#general-info)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Setup](#setup)
-- [Features](#features)
-- [Status](#status)
-- [Contact](#contact)
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 ## General info
 
@@ -25,7 +27,7 @@ The project will be a **website** based on the layout that was prepared in Adobe
 ![Service Article](./images/service_article.png)
 ![Contact](./images/contact.png)
 
-## Technologies
+## Technologies Used
 
 - HTML
 - CSS
@@ -33,10 +35,6 @@ The project will be a **website** based on the layout that was prepared in Adobe
 - Reset file
 - Adobe XD
 - ITCSS (organizational issues, layered structure)
-
-## Setup
-
-This project runs when a file is selected: index.html
 
 ## Features
 
@@ -46,10 +44,26 @@ This project runs when a file is selected: index.html
 - Local styles (sections, pages, etc.)
 - Partial files are imported into the main style.css file
 
-## Status
+## Setup
 
-Project is: _made_
+This project runs when a file is selected: index.html,
+launched in the browser
+
+## Project Status
+
+Project is: _in progress_
+
+## Room for Improvement
+
+List of features ready and TODOs for future development
+
+- Home Page and Form layout
+
+To-do list:
+
+- Mobile version
+- Optimisation
 
 ## Contact
 
-Created by Krystian Marciniak krystianmarciniak446@gmail.com - feel free to contact me
+Created by Krystian Marciniak krystianmarciniak446@gmail.com - feel free to contact me!
